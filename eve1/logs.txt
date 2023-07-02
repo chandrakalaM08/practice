@@ -1,0 +1,7 @@
+The home route visited at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
+New student has been added to the database at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
+New instructor has been added to the database at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
+All the students data provided at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
+All the instructors data provided at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
+Total number of tickets in the system are 5 at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
+URL: masaischool.com IP Address: 52.66.114.185 Family: IPv4 at Mon Jul 03 2023 00:14:33 GMT+0530 (India Standard Time)
