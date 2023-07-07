@@ -1,0 +1,33 @@
+#game {
+  
+  width: 400px;
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin-bottom: 10px;
+}
+
+.grid-cell {
+  border: 1px solid black;
+  height: 100px;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.game-over {
+
+  margin-top: 10px;
+}
+
+.restart {
+  padding: 10px 15px;
+    background-color: rgb(135, 227, 132);
+}
+
+.restart  :hover {
+  padding: 10px 15px;
+  background-color: cadetblue;
+}
