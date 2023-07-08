@@ -1,13 +1,12 @@
 const mongoose = require("mongoose");
 const express = require("express");
+require("dotenv").config();
 
 const app = express();
 
 const connection = async () => {
   try {
-    await mongoose.connect(
-      "mongodb+srv://chandrakaladms:3rm5R2e46uBxXWuD@cluster0.toyzeqx.mongodb.net/livedatabase=true&w=majority"
-    );
+    await mongoose.connect(process.env.mongoUrl);
     console.log("successfully connected to database");
     console.log("Connected to MongoDB");
     // When you want to save many documents at once then write like this
@@ -44,7 +43,7 @@ const studentSchema = mongoose.Schema(
 // Creating the model
 const StudentModel = mongoose.model("student", studentSchema);
 
-app.listen(8080, () => {
+app.listen(process.env.port, () => {
   connection();
-  console.log("server running on port 8080");
+  console.log(`server running on port ${process.env.port}`);
 });
