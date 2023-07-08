@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
+require("dotenv").config();
 
-const connection = mongoose.connect(
-  "mongodb+srv://chandrakaladms:3rm5R2e46uBxXWuD@cluster0.toyzeqx.mongodb.net/livedatabase=true&w=majority"
-);
+const connection = mongoose.connect(process.env.mongoURL);
 
 const userSchema = mongoose.Schema(
   {
