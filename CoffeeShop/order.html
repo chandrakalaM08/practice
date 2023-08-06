@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order</title>
+</head>
+<style>
+        #order-container{
+        display: grid;
+        width: 90%;
+        margin: auto;
+        grid-template-columns: repeat(4,1fr);
+        gap : 20px
+    }
+
+    #order-container > div {
+        border : 2px solid rgb(76, 74, 74);
+        border-radius: 10px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+         text-align: center;
+    }
+
+      #order-container >div> img {
+        width: 100%;
+       height: 250px;
+       border-top-left-radius: 10px;
+       border-top-right-radius: 10px;
+    }
+
+    .card {
+  padding: 20px;
+}
+
+.ingredient-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cancel-button {
+  background-color: lightblue;
+  height: 30px;
+  width: 50px;
+  border-style: none;
+  border-radius: 2px;
+}
+
+
+</style>
+<body>
+    <h1>Order Page</h1>
+    <div class="nav">
+        <a href="./index.html">Home</a>
+        <a href="./order.html">Ordered</a>
+    </div>
+    <h1 id="total">
+        Your total order value is :- <span id="order-total"></span>
+    </h1>
+    <div id="coupon">
+        <input type="text" placeholder="Apply coupon" id="coupon-text"/>
+        <button id="coupon-button">Add Cupon</button>
+    </div>
+    <br/>
+    <div id="order-container"></div>
+    
+</body>
+<script src="./order.js"></script>
+</html>
