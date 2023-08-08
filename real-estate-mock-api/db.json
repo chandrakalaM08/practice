@@ -1,0 +1,108 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-38734134/original/32c1ae0f-4d37-4b3d-8cb6-e568771648ab.jpeg?im_w=1200",
+            "tag": "popular",
+            "price": 2570,
+            "title": "Palm Harbor",
+            "address": "Fort Lauderdale, Florida, United States",
+            "beds": 3,
+            "bathrooms": 2,
+            "area": "5 x 7 m2",
+            "location": "Florida",
+            "available": "17-08-2023"
+        },
+        {
+            "id": 2,
+            "image": "https://a0.muscache.com/im/pictures/37943c91-07ae-4145-945a-d7b221727cc3.jpg?im_w=1200",
+            "tag": "popular",
+            "price": 2570,
+            "title": "Palm Harbor",
+            "address": "Fort Lauderdale, Florida, United States",
+            "beds": 3,
+            "bathrooms": 2,
+            "area": "5 x 7 m2",
+            "location": "Florida",
+            "available": "17-08-2023"
+        },
+        {
+            "id": 3,
+            "image": "https://a0.muscache.com/im/pictures/5e10e6e5-98fc-4494-8654-77fdc91acb7b.jpg?im_w=720",
+            "tag": "popular",
+            "price": 2570,
+            "title": "Palm Harbor",
+            "address": "Fort Lauderdale, Florida, United States",
+            "beds": 3,
+            "bathrooms": 2,
+            "area": "5 x 7 m2",
+            "location": "Florida",
+            "available": "17-08-2023"
+        },
+        {
+            "id": 4,
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-47493438/original/2a8af994-77f0-46c8-b869-c3a1618a09b3.jpeg?im_w=1200",
+            "tag": "popular",
+            "price": 2570,
+            "title": "Palm Harbor",
+            "address": "Fort Lauderdale, Florida, United States",
+            "beds": 3,
+            "bathrooms": 2,
+            "area": "5 x 7 m2",
+            "location": "Florida",
+            "available": "17-08-2023"
+        },
+        {
+            "id": 5,
+            "image": "https://a0.muscache.com/im/pictures/37943c91-07ae-4145-945a-d7b221727cc3.jpg?im_w=1200",
+            "tag": "luxury",
+            "price": 6000,
+            "title": "Private Mansion",
+            "address": "Beverly Hills, California, United States",
+            "beds": 6,
+            "bathrooms": 5,
+            "area": "1000 sqm",
+            "location": "California",
+            "available": "20-08-2023"
+        },
+        {
+            "id": 6,
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-47493438/original/2a8af994-77f0-46c8-b869-c3a1618a09b3.jpeg?im_w=1200",
+            "tag": "popular",
+            "price": 1800,
+            "title": "Downtown Loft",
+            "address": "Chicago, Illinois, United States",
+            "beds": 2,
+            "bathrooms": 2,
+            "area": "90 sqm",
+            "location": "Illinois",
+            "available": "15-09-2023"
+        },
+        {
+            "id": 7,
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-38734134/original/32c1ae0f-4d37-4b3d-8cb6-e568771648ab.jpeg?im_w=1200",
+            "tag": "cozy",
+            "price": 1200,
+            "title": "Rustic Cottage",
+            "address": "Sedona, Arizona, United States",
+            "beds": 3,
+            "bathrooms": 2,
+            "area": "120 sqm",
+            "location": "Arizona",
+            "available": "22-08-2023"
+        },
+        {
+            "id": 8,
+            "image": "https://a0.muscache.com/im/pictures/5e10e6e5-98fc-4494-8654-77fdc91acb7b.jpg?im_w=720",
+            "tag": "budget",
+            "price": 500,
+            "title": "City Studio",
+            "address": "San Francisco, California, United States",
+            "beds": 1,
+            "bathrooms": 1,
+            "area": "35 sqm",
+            "location": "California",
+            "available": "18-07-2023"
+        }
+    ]
+}
