@@ -1,0 +1,284 @@
+{
+    "groceries": [
+        {
+            "id": 1,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        },
+        {
+            "id": 6,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        },
+        {
+            "id": 11,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 15,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        },
+        {
+            "id": 1,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 17,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 19,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        },
+        {
+            "id": 20,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 21,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 22,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 24,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        },
+        {
+            "id": 25,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 26,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 27,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 29,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        },
+        {
+            "id": 30,
+            "name": "Apples",
+            "quantity": 5,
+            "price": 299,
+            "description": "Fresh, crisp apples",
+            "image": "https://cdn.zeptonow.com/production///tr:w-200,ar-500-500,pr-true,f-webp,q-80/inventory/product/f6cc8f76-767c-4d35-b885-6e644bab3b1d-Photo.jpeg"
+        },
+        {
+            "id": 31,
+            "name": "Bananas",
+            "quantity": 8,
+            "price": 99,
+            "description": "Ripe bananas",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-416-299,pr-true,f-webp,q-80/inventory/product/fbb96f38-8da2-4b5f-a6ed-cc4026fa3eba-image_file.jpeg"
+        },
+        {
+            "id": 32,
+            "name": "Milk",
+            "quantity": 2,
+            "price": 149,
+            "description": "1 gallon of milk",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-1500-1500,pr-true,f-webp,q-80/inventory/product/f9dc18a6-b873-4f12-a138-f5939a6ecbb6-2877.jpg"
+        },
+        {
+            "id": 33,
+            "name": "Eggs",
+            "quantity": 12,
+            "price": 129,
+            "description": "Large brown eggs",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-882-622,pr-true,f-webp,q-80/inventory/product/674e9cd8-615f-49ff-8686-01e4ade5a825-1Ryji2GG3v8e2ycZLmN-RL8f5V0g4b6oh.jpeg"
+        },
+        {
+            "id": 34,
+            "name": "Bread",
+            "quantity": 1,
+            "price": 49,
+            "description": "Freshly baked bread",
+            "image": "https://cdn.zeptonow.com/production///tr:w-450,ar-420-466,pr-true,f-webp,q-80/inventory/product/4ef01580-f3c6-4c25-b57b-3355414e6cc4-image_file.png"
+        }
+    ]
+}
